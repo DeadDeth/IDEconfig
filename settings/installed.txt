@@ -1,0 +1,8 @@
+com.intellij.cmake
+PythonCore
+com.mallowigi
+com.intellij.clion-compdb
+com.intellij.clion.meson
+org.jetbrains.plugins.node-remote-interpreter
+com.jetbrains.rust
+com.chrisrm.idea.MaterialThemeUI

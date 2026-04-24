@@ -1,0 +1,14 @@
+<application>
+  <component name="DownloadModelConsentState">
+    <option name="lastNotificationTimestamps">
+      <map>
+        <entry language="HTML" lastNotificationTimestamp="1776987087913" />
+      </map>
+    </option>
+  </component>
+  <component name="MLServerCompletionSettings">
+    <LangState language_id="C++">
+      <option name="enabled" value="false" />
+    </LangState>
+  </component>
+</application>
